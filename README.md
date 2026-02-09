@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Shadow1548/Shadow1548** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🤖 AI & Robotics enthusiast
+- 🐍 Python developer
+- 🚀 Building projects and learning every day
 
-Here are some ideas to get you started:
+## Current Focus
+- Machine Learning & AI
+- Robotics
+- Backend development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Python
+- C++
+- Git
+- Linux
+
+## Goals
+- Build real-world AI and robotics projects
+- Create impactful technology
+- Keep learning every day
