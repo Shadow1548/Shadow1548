@@ -1,22 +1,36 @@
-## Hi there 👋
+Hi there 👋
 
-## About Me
-- 🤖 AI & Robotics enthusiast
+About Me
+
+- 🌐 Networking & backend enthusiast
 - 🐍 Python developer
-- 🚀 Building projects and learning every day
+- 🛠️ Building real-world systems and learning by doing
 
-## Current Focus
-- Machine Learning & AI
-- Robotics
-- Backend development
+Current Focus
 
-## Tools & Technologies
+- CCNA & networking fundamentals
+- Backend development with FastAPI & PostgreSQL
+- Developing a network monitoring system
+- Completing CS50x (Harvard’s Introduction to Computer Science)
+
+Projects
+
+- 🚀 NetMonitor – backend system for monitoring devices, uptime, and performance
+
+Tools & Technologies
+
 - Python
-- C++
-- Git
-- Linux
+- FastAPI
+- PostgreSQL
+- Git & Linux
 
-## Goals
-- Build real-world AI and robotics projects
-- Create impactful technology
-- Keep learning every day
+Interests
+
+- AI & Machine Learning (long-term focus)
+- Automation & system design
+
+Goals
+
+- Get a strong entry-level role in IT / networking / backend
+- Build production-ready systems
+- Transition into AI + automation in the future
