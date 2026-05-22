@@ -29,8 +29,8 @@ Interests
 - AI & Machine Learning (long-term focus)
 - Automation & system design
 
-Goals
+Goals: 
 
-- Get a strong entry-level role in IT / networking / backend
-- Build production-ready systems
-- Transition into AI + automation in the future
+* Ship production-ready network monitoring system
+* Complete ML engineering curriculum by late 2026  
+* Build ML-powered infrastructure tools for Algeria
